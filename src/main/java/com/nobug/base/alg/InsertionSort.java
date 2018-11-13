@@ -1,6 +1,11 @@
 package com.nobug.base.alg;
 
 /**
+ * in-place
+ * stable
+ * best: O(n)
+ * avg: O(n^2)
+ * worst:O(n^2)
  * User: FF
  * Date: 2018/11/13
  * Time: 23:40

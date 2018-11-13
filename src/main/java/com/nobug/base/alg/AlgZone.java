@@ -4,11 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.stream.IntStream;
 
-/**
- * User: FF
- * Date: 2018/11/14
- * Time: 0:12
- */
+
 abstract class AlgZone {
 
     static int[] randomAry(int len){

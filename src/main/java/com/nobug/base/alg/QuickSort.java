@@ -1,10 +1,6 @@
 package com.nobug.base.alg;
 
-/**
- * User: chenhf
- * Date: 2018/11/12
- * Time: 12:27
- */
+
 public class QuickSort extends AlgZone{
 
     public static void main(String[] args) {

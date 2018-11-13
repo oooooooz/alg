@@ -1,10 +1,6 @@
 package com.nobug.base.alg;
 
-/**
- * User: FF
- * Date: 2018/11/4
- * Time: 10:03
- */
+
 public class SelectSort extends AlgZone{
 
 

@@ -1,6 +1,10 @@
 package com.nobug.base.alg;
 
-
+/**
+ * User: chenhf
+ * Date: 2018/11/6
+ * Time: 12:31
+ */
 public class MergeSort extends AlgZone{
 
     public static void main(String[] args) {
